@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @denizdikbiyik
-- 👀 I’m interested in Software Development and use C# .net actively.
-- 🌱 I have experience in Python and Java as well.
+- 👀 I’m interested in Software Development and use C# .net, Angular, Python actively.
+- 🌱 I have experience in Java as well.
 - 👀 I’m looking to collaborate on creative ideas.
 - 📫 How to reach me https://tr.linkedin.com/in/denizdikbiyik1996 
 
